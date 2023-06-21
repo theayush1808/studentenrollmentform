@@ -78,3 +78,12 @@ Upadte mobile number.
 
 Delete a specific student record.
 
+
+Scope of functionalities:
+
+
+It is a very basic project for demonstration of JsonPowerDb with help of a web application.
+
+
+Can be further improved by addidng additional fields and can be made into a working DB manager.
+
