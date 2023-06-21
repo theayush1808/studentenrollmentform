@@ -59,3 +59,22 @@ Enhancements:
 v0.1.1 (21/02/2023)
 Enhancements:
 [#5] Added a README.md file
+
+
+
+
+
+In this project, you can do the following:
+
+
+
+Register a Student.
+
+Search a specific student.
+
+View all students in a particular Department
+
+Upadte mobile number.
+
+Delete a specific student record.
+
